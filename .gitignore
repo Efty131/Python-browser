@@ -1,0 +1,27 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# PyQt build artifacts
+build/
+dist/
+__pycache__/
+*.spec
+*.exe.manifest
+
+# IDE and editor artifacts
+.vscode/
+.idea/
+*.pydevproject
+*.project
+*.pyc
+*.bak
+*.swp
+*~.nib/
+*.sublime-project
+*.sublime-workspace
+
+# Other
+*.log
+*.db
+*.sqlite3
